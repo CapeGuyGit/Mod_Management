@@ -3,9 +3,11 @@
 this was made for my friends server to keep track of all the mods in his discord server,
 it basically has 2 functions: addd mod and show mods
 
-add mod:
+to add mod:
 
 .add_mod <tag the staff> <rank of the staff>
+  
+to show mods:
   
 .show_mods
 
@@ -26,3 +28,4 @@ i will try my best to make it logical but if you go to my repl you can see it wa
 that was just because there was a lot of stress and wanted to make somethings cooler and thats all
 hope you like it and it helps out in some way for you!
 
+the code is written in discord.py rewrite.
